@@ -1,2 +1,2 @@
-# my-curriculum-vitae1
+# my-curriculum-vitae
 Repositori pertama saya di github
